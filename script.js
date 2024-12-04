@@ -12,7 +12,7 @@ const bird = {
 };
 
 const birdImage = new Image();
-birdImage.src = 'bat.svg';
+birdImage.src = '/bat.svg';
 
 const pipes = [];
 const pipeWidth = 20;
